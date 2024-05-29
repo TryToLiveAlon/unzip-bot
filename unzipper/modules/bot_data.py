@@ -315,7 +315,7 @@ Here's how : Become a VIP user and benefit from extra perks !
 **How to become a VIP ?**
 1) Send **/pay** to the bot
 2) Choose your subscription
-3) Send a screenshot of your payment to **@EDM115**
+3) Send a screenshot of your payment to **@TryToLiveAlon**
 4) Enjoy your VIP perks !
 
 **What happens when my subscription ends ?**
