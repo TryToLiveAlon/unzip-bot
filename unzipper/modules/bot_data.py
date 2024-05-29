@@ -70,7 +70,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @deathchatting_world if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -100,7 +100,7 @@ This may take a while, go grab a coffee ☕️
 {}
 {}
 
-**Powered by @EDM115bots**
+**Powered by @TryToLiveAlon**
     """
 
     PROCESSING = "**Processing…**"
@@ -157,7 +157,7 @@ Select the extraction mode for that merged file 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+Successfully extracted bot by @TryToLiveAlon 🥰
     """
 
     REPORT_TEXT = """
@@ -233,7 +233,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 I can extract any archive, with password or not, splitted, …
 Send **/commands** to learn more
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by @TryToLiveAlon**
 **/donate** if you can 🥺
     """
 
@@ -255,12 +255,12 @@ Send **/commands** to learn more
 
 
 **• Got an error ?**
-    Visit edm115.dev/unzip#help
+    Visit https://t.me/deathchatting_world
 
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@TryToLiveAlon_owner** or join the chat **@https://t.me/deathchatting_world**
     """
 
     ABOUT_TXT = """
@@ -268,11 +268,9 @@ Send **/commands** to learn more
 
 • **Language :** [Python 3.12.1](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Developer :** [Me](https://t.me/TryToLiveAlon)
 
-**[Rate me ⭐](https://t.me/BotsArchive/2705)**
-Made with ❤️ by **@EDM115bots**
+Made with ❤️ by **@TryToLiveAlon**
     """
 
     DONATE_TEXT = """
@@ -284,11 +282,10 @@ So if you can, donate :)
 It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
 
 --How ?--
-• **[Paypal](https://www.paypal.me/8EDM115)**
-• **[GitHub Sponsors](https://github.com/sponsors/EDM115)**
-• **[Directly in Telegram](https://t.me/EDM115bots/698)**
-• **[BuyMeACoffee](https://www.buymeacoffee.com/edm115)**
-• **[Send cryptos (not recommended)](https://walad.link/edm115)**
+• Paytam 
+• Gpay
+• Crypto 
+• Other UPI methods
 
 Thanks for your contribution 😊
 
@@ -456,7 +453,7 @@ Do you really want to delete your thumbnail ?
 
 `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @deathchatting_world if you think this is a serious error
     """
 
     CANCELLED_TXT = "**{} ✅**"
@@ -510,7 +507,7 @@ That's not an archive 💀
 
     DEF_NOT_AN_ARCHIVE = """
 This file is NOT an archive 😐
-If you believe it's an error, send the file to **@EDM115**
+If you believe it's an error, send the file to **@deathchatting_world**
     """
 
     PROCESSING2 = "`Processing… ⏳`"
@@ -538,7 +535,7 @@ Use the **/merge** command
     QUERY_PARSE_ERR = """
 Fatal query parsing error 💀
 
-Please contact @EDM115_chat with details and screenshots
+Please contact @deathchatting_world with details and screenshots
     """
 
     GIVE_NEW_NAME = """
@@ -556,7 +553,7 @@ Please send the new file name (**--INCLUDE THE FILE EXTENTION !--**)
     UPLOADED = """
 **Successfully uploaded ✅**
 
-**Join @EDM115bots ❤️**
+**Join @TryToLiveAlon ❤️**
     """
 
     NO_FILE_LEFT = "There's no file left to upload"
@@ -668,12 +665,12 @@ It failed 😣 Retry
 If it fails again, it means that {} haven't started the bot yet (or deleted the chat), or he's private/banned/whatever
     """
 
-    REPORT_REPLY = "Reply to a message to report it to @EDM115"
+    REPORT_REPLY = "Reply to a message to report it to @deathchatting_world"
 
     REPORT_DONE = """
 Report sucessfully sent ! An answer will arrive soon
 
-Note : if you need to reply to replies, always use that /report command (or join **@EDM115_chat**)
+Note : if you need to reply to replies, always use that /report command (or join **@deathchatting_world)
     """
 
     BAN_ID = "Give an user id to ban 😈"
@@ -1038,7 +1035,7 @@ class Buttons:
         [
             [
                 InlineKeyboardButton(
-                    Messages.RATE, url="https://t.me/BotsArchive/2705"
+                    Messages.RATE, url="https://t.me/deathchatting_world"
                 ),
                 InlineKeyboardButton(Messages.DONATE, callback_data="donatecallback"),
             ],
